@@ -131,18 +131,128 @@ Interview:   /10
 
 ### Day 1 — Python Engineering
 
-* [ ] OOP
-* [ ] Decorators
-* [ ] Generators
-* [ ] Typing
-* [ ] Exceptions
-* [ ] Logging
-* [ ] Clean code
-* [ ] Virtual environments
-* [ ] Project structure
+* [✅] OOP
+* [✅] Decorators
+* [✅] Generators
+* [✅] Typing
+* [✅] Exceptions
+* [✅] Logging
+* [✅] Clean code
+* [✅] Virtual environments
+* [✅] Project structure
 * [ ] Coding completed
 * [ ] Explained from memory
 
+
+```text
+# Day 1 — [Python Engineering]
+
+Date:25/10/2025
+Hours:3
+
+## Topics
+
+[ ] Recognition
+[ ] Recall
+[ ] Construction
+
+## Coding
+
+[ ] Completed
+[ ] Tested
+[ ] Debugged
+
+## Knowledge
+
+[ ] Can explain
+[ ] Can implement
+[ ] Can debug
+[ ] Can defend
+
+## Project
+
+[ ] Working
+[ ] Tested
+[ ] Documented
+
+## Interview
+
+[ ] Cold explanation
+[ ] Technical questions
+
+## Why is Preprocessor a class but validate_schema can be a plain function?
+
+-Preprocessor is a class because it may need to maintain state, such as configuration or fitted parameters. validate_schema can be a plain function because it performs a specific task without needing to store state between calls.
+
+
+## What does the trailing _ in self.mean_ signal?
+
+-A trailing underscore is a Python naming convention commonly used in machine learning libraries such as scikit-learn to indicate an attribute that is learned or estimated during fit().
+
+
+## What does @functools.wraps(fn) do, and why is it inside every decorator?
+
+-@functools.wraps(fn) preserves the original function's metadata, such as its name, docstring, and module, when a decorator replaces it with a wrapper function.
+
+
+## yield vs return — one sentence on the practical difference.
+
+-yield return data one by one but return returns all of the data at once
+
+
+## Why do we define LoadError(DataError) instead of raising Exception("...")?
+
+-We raice the error as we expect it at the field of it's usage but raise just print 
+
+
+## Write from memory: a list comprehension that keeps only even numbers from nums.
+
+- evenNums = [even for even in nums if even%2== 0]
+
+
+## Why logger.info("x=%s", x) instead of logger.info(f"x={x}")?
+
+-format the message if the level label ie enabled but the f-string will formate every call
+
+
+## What's the if not logger.handlers guard in get_logger for?
+
+- if not logger.handlers checks whether the logger already has directly attached handlers, helping prevent duplicate handlers from being added when the setup function is called repeatedly.
+
+
+## What single command produces requirements.txt?
+
+- pip freeze > requirments.txt
+
+
+## What does __init__.py do — the two jobs?
+
+- 1. makes the folder treated as a pachage , 2. Define the package public face
+
+
+## Bugs / Problems
+
+- 
+
+## What I Need to Review Tomorrow
+
+- Day1 sheet
+
+## Evidence
+
+Code: DONE
+Commit:Day1 - data package
+Demo: __
+Notes:__
+
+## Day Score
+
+Recall:   6   /10
+Coding:    7  /10
+Engineering: 7/10
+Debugging:  8 /10
+Interview: 7  /10
+```
 ### Day 2 — NumPy + Pandas
 
 * [ ] Vectorization
