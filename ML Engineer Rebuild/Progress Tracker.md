@@ -34,11 +34,11 @@ Overall Status:
 | Week   | Focus                      | Status | Score |
 | ------ | -------------------------- | ------ | ----: |
 | Week 1 | ML Foundations             | 🟡     |   /10 |
-| Week 2 | PyTorch + Deep Learning    | ⬜     |   /10 |
-| Week 3 | Production CV              | ⬜     |   /10 |
-| Week 4 | NLP + RAG                  | ⬜     |   /10 |
-| Week 5 | MLOps + Cloud              | ⬜     |   /10 |
-| Week 6 | System Design + Interviews | ⬜     |   /10 |
+| Week 2 | PyTorch + Deep Learning    | ⬜      |   /10 |
+| Week 3 | Production CV              | ⬜      |   /10 |
+| Week 4 | NLP + RAG                  | ⬜      |   /10 |
+| Week 5 | MLOps + Cloud              | ⬜      |   /10 |
+| Week 6 | System Design + Interviews | ⬜      |   /10 |
 
 ### Status Legend
 
@@ -56,58 +56,58 @@ Overall Status:
 Copy this section for every day.
 
 ```text
-# Day XX — [Topic]
+### Day x — title (log)
 
-Date:
-Hours:
+Date: 28/10
+Hours: 3
 
 ## Topics
 
-[ ] Recognition
-[ ] Recall
-[ ] Construction
+* [ ] Recognition
+* [ ] Recall
+* [ ] Construction
 
 ## Coding
 
-[ ] Completed
-[ ] Tested
-[ ] Debugged
+* [ ] Completed
+* [ ] Tested
+* [ ]  Debugged
 
 ## Knowledge
 
-[ ] Can explain
-[ ] Can implement
-[ ] Can debug
-[ ] Can defend
+* [ ] Can explain
+* [ ]  Can implement
+* [ ]  Can debug
+* [ ]  Can defend
 
 ## Project
 
-[ ] Working
-[ ] Tested
-[ ] Documented
+* [ ]  Working
+* [ ] Tested
+* [ ]  Documented
 
 ## Interview
 
-[ ] Cold explanation
-[ ] Technical questions
+* [ ]  Cold explanation
+* [ ] Technical questions
 
-## What I Actually Learned
-
--
-
-## What I Still Don't Understand
+#### What I Actually Learned
 
 -
 
-## Bugs / Problems
+#### What I Still Don't Understand
 
 -
 
-## What I Need to Review Tomorrow
+#### Bugs / Problems
 
 -
 
-## Evidence
+#### What I Need to Review Tomorrow
+
+-
+
+#### Evidence
 
 Code:
 Commit:
@@ -140,8 +140,8 @@ Interview:   /10
 * [x] Clean code
 * [x] Virtual environments
 * [x] Project structure
-* [ ] Coding completed
-* [ ] Explained from memory
+* [x] Coding completed
+* [x] Explained from memory
 
 #### Day 1 — Python Engineering (log)
 
@@ -150,15 +150,15 @@ Interview:   /10
 
 **Topics**
 
-- [ ] Recognition
-- [ ] Recall
-- [ ] Construction
+- [x] Recognition
+- [x] Recall
+- [x] Construction
 
 **Coding**
 
-- [ ] Completed
-- [ ] Tested
-- [ ] Debugged
+- [x] Completed
+- [x] Tested
+- [x] Debugged
 
 **Knowledge**
 
@@ -169,9 +169,9 @@ Interview:   /10
 
 **Project**
 
-- [ ] Working
-- [ ] Tested
-- [ ] Documented
+- [x] Working
+- [x] Tested
+- [x] Documented
 
 **Interview**
 
@@ -264,6 +264,75 @@ Interview:    7/10
 * [ ] Feature engineering
 * [ ] Preprocessing pipeline
 * [ ] Tested
+
+
+
+### Day 2 — NumPy + Pandas (log)
+
+Date: 28/10
+Hours: 3
+
+## Topics
+
+* [ ] Recognition
+* [ ] Recall
+* [ ] Construction
+
+## Coding
+
+* [ ] Completed
+* [ ] Tested
+* [ ]  Debugged
+
+## Knowledge
+
+* [ ] Can explain
+* [ ]  Can implement
+* [ ]  Can debug
+* [ ]  Can defend
+
+## Project
+
+* [ ]  Working
+* [ ] Tested
+* [ ]  Documented
+
+## Interview
+
+* [ ]  Cold explanation
+* [ ] Technical questions
+
+#### What I Actually Learned
+
+-
+
+#### What I Still Don't Understand
+
+-
+
+#### Bugs / Problems
+
+-
+
+#### What I Need to Review Tomorrow
+
+-
+
+#### Evidence
+
+Code:
+Commit:
+Demo:
+Notes:
+
+## Day Score
+
+Recall:      /10
+Coding:      /10
+Engineering: /10
+Debugging:   /10
+Interview:   /10
+
 
 ### Day 3 — Statistics
 

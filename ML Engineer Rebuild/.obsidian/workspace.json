@@ -15,9 +15,9 @@
               "state": {
                 "file": "Main.canvas",
                 "viewState": {
-                  "x": -980,
-                  "y": -610,
-                  "zoom": -0.250254458506902
+                  "x": 1760,
+                  "y": -2491.3687804878045,
+                  "zoom": -0.10187961401921382
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -191,7 +191,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "6d84061ba370ce3d",
+  "active": "127d88c60a4cbe85",
   "lastOpenFiles": [
     "LeetCode - Map.md",
     "Day 1 Sheet.md",
