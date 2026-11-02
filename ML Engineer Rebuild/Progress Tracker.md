@@ -162,10 +162,10 @@ Interview:   /10
 
 **Knowledge**
 
-- [ ] Can explain
-- [ ] Can implement
-- [ ] Can debug
-- [ ] Can defend
+- [x] Can explain
+- [x] Can implement
+- [x] Can debug
+- [x] Can defend
 
 **Project**
 
@@ -256,14 +256,14 @@ Interview:    7/10
 
 ### Day 2 — NumPy + Pandas
 
-* [ ] Vectorization
-* [ ] Broadcasting
-* [ ] GroupBy
-* [ ] Merge
-* [ ] Missing values
-* [ ] Feature engineering
-* [ ] Preprocessing pipeline
-* [ ] Tested
+* [x] Vectorization
+* [x] Broadcasting
+* [x] GroupBy
+* [x] Merge
+* [x] Missing values
+* [x] Feature engineering
+* [x] Preprocessing pipeline
+* [x] Tested
 
 
 
@@ -274,28 +274,28 @@ Hours: 3
 
 ## Topics
 
-* [ ] Recognition
-* [ ] Recall
-* [ ] Construction
+* [x] Recognition
+* [x] Recall
+* [x] Construction
 
 ## Coding
 
-* [ ] Completed
-* [ ] Tested
-* [ ]  Debugged
+* [x] Completed
+* [x] Tested
+* [x]  Debugged
 
 ## Knowledge
 
-* [ ] Can explain
-* [ ]  Can implement
-* [ ]  Can debug
-* [ ]  Can defend
+* [x] Can explain
+* [x]  Can implement
+* [x]  Can debug
+* [x]  Can defend
 
 ## Project
 
-* [ ]  Working
-* [ ] Tested
-* [ ]  Documented
+* [x]  Working
+* [x] Tested
+* [x]  Documented
 
 ## Interview
 
@@ -304,19 +304,19 @@ Hours: 3
 
 #### What I Actually Learned
 
--
+- One-Hot encoding + varies preprocessing techniques with numpy and pandas
 
 #### What I Still Don't Understand
 
--
+- the dataset that i work on i know what it is but donot understand each column
 
 #### Bugs / Problems
 
--
+- fit and transform function (excludes column parameter missing)
 
 #### What I Need to Review Tomorrow
 
--
+- day 2 sheet + the preprocessing.py file
 
 #### Evidence
 
@@ -327,25 +327,92 @@ Notes:
 
 ## Day Score
 
-Recall:      /10
-Coding:      /10
-Engineering: /10
-Debugging:   /10
-Interview:   /10
+Recall:     8 /10
+Coding:     6 /10
+Engineering: 7/10
+Debugging:  8 /10
+Interview:  8 /10
 
 
 ### Day 3 — Statistics
 
-* [ ] Distributions
-* [ ] Bayes
-* [ ] Covariance
-* [ ] Correlation
-* [ ] Hypothesis testing
-* [ ] Bias/variance
-* [ ] Overfitting
-* [ ] Leakage
-* [ ] Naive Bayes from scratch
-* [ ] Compared with sklearn
+* [x] Distributions
+* [x] Bayes
+* [x] Covariance
+* [x] Correlation
+* [x] Hypothesis testing
+* [x] Bias/variance
+* [x] Overfitting
+* [x] Leakage
+* [x] Naive Bayes from scratch
+* [x] Compared with sklearn
+
+
+### Day 3 — Statistics (log)
+
+Date: 1/11
+Hours: 3
+
+## Topics
+
+* [x] Recognition
+* [x] Recall
+* [x] Construction
+
+## Coding
+
+* [x] Completed
+* [x] Tested
+* [x]  Debugged
+
+## Knowledge
+
+* [x] Can explain
+* [x]  Can implement
+* [x]  Can debug
+* [x]  Can defend
+
+## Project
+
+* [x]  Working
+* [x] Tested
+* [x]  Documented
+
+## Interview
+
+* [x]  Cold explanation
+* [x] Technical questions
+
+#### What I Actually Learned
+
+- The naive bayes : what is it all about
+
+#### What I Still Don't Understand
+
+- where to use it ??
+
+#### Bugs / Problems
+
+- 
+
+#### What I Need to Review Tomorrow
+
+- Day3 sheet + question page
+
+#### Evidence
+
+Code:
+Commit:
+Demo:
+Notes:
+
+## Day Score
+
+Recall:      8/10
+Coding:      8/10
+Engineering:9 /10
+Debugging:   9/10
+Interview:   8/10
 
 ### Day 4 — Linear Algebra
 
